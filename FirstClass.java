@@ -1,5 +1,5 @@
 public class FirstClass {
-    public void print() {
-        System.out.println("Hello World 2");
+    public void main(){
+        System.out.println("Hello World");
     }
 }
